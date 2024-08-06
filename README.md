@@ -8,11 +8,11 @@
 <img height="150" src="https://streak-stats.demolab.com?user=Hunrax&theme=light&date_format=j%20M%5B%20Y%5D"/>
 </div>
   
-### I feel best in:
+## I feel best in:
 * **C#**
 * **C / C++**
 
-### I also have experience in:
+## I also have experience in:
 * **Java**
 * **Python**
 * **Dart**
