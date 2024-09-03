@@ -4,7 +4,7 @@
 
 ## My name is Radek and I am a Computer Science student at the Gdańsk University of Technology.
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Hunrax&theme=light&hide_border=false&include_all_commits=true&count_private=true"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Hunrax&theme=light&hide_border=false&count_private=true"/>
 <img height="150" src="https://streak-stats.demolab.com?user=Hunrax&theme=light&date_format=j%20M%5B%20Y%5D"/>
 </div>
   
