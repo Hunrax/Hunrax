@@ -15,7 +15,8 @@
 ## I also have experience in:
 * **Java**
 * **Python**
-* **Dart**
+* **TypeScript (Angular)**
+* **Dart (Flutter)**
 * **SQL**
 
 <div align="center">
