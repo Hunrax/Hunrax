@@ -8,19 +8,26 @@
 <img height="150" src="https://streak-stats.demolab.com?user=Hunrax&theme=light&date_format=j%20M%5B%20Y%5D"/>
 </div>
 
-## Currently working in:
+## 💻 Currently working in:
 * **Angular**
 * **Node.js**
+* **Azure**
 
-## Apart from that, I feel best in:
+## 🧠 Apart from that, I feel best in:
 * **C#**
 * **C / C++**
 
-## I also have experience in:
+## 🛠️ I also have experience in:
 * **Java**
 * **Python**
 * **Dart (Flutter)**
 * **SQL**
+
+ ## 💡 Currently learning:
+* **React**
+
+## 📫 How to reach me:
+* [LinkedIn](https://www.linkedin.com/in/rados%C5%82aw-gajewski-3106902bb/)
 
 <div align="center">
 
@@ -28,20 +35,3 @@
 <img height="300" src="https://github.com/user-attachments/assets/adc1f34a-acbf-4363-9ffc-9e178b8c7482"/>
 </div>
 
-
-
-
-<!--
-**Hunrax/Hunrax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
