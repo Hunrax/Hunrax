@@ -2,29 +2,26 @@
 
 # Hi there 👋
 
-## My name is Radek and I am a Computer Science student at the Gdańsk University of Technology.
+## I'm a Computer Science graduate with a Master's degree, currently working as a Junior Software Engineer. My main interest is frontend development for web applications using Angular.
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Hunrax&theme=light&hide_border=false&count_private=true"/>
-<img height="150" src="https://streak-stats.demolab.com?user=Hunrax&theme=light&date_format=j%20M%5B%20Y%5D"/>
+<img height="150" src="https://github-stats-extended.vercel.app/api?username=Hunrax&theme=light&hide_border=false" alt="GitHub Stats" />
+<img height="150" src="https://streak-stats.demolab.com?user=Hunrax&theme=light&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
-## 💻 Currently working in:
+## 💻 Currently working as a Full Stack Developer in:
 * **Angular**
-* **Node.js**
-* **Azure**
+* **Java**
 
-## 🧠 Apart from that, I feel best in:
+## 💡 I also have professional experience with:
+* **Node.js**
+* **Microsoft Azure**
+
+## 🛠️ Other technologies I've worked with in personal projects:
 * **C#**
 * **C / C++**
-
-## 🛠️ I also have experience in:
-* **Java**
 * **Python**
 * **Dart (Flutter)**
 * **SQL**
-
- ## 💡 Currently learning:
-* **React**
 
 ## 📫 How to reach me:
 * [LinkedIn](https://www.linkedin.com/in/rados%C5%82aw-gajewski-3106902bb/)
